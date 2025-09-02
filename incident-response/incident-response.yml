@@ -1,1 +1,22 @@
+policy:
+  name: "Incident Response Policy"
+  version: "1.0"
+  iso_reference: "ISO/IEC 27001:2022 - A.5.24"
+  scope: "All employees, contractors, and systems"
+
+requirements:
+  incident_reporting: "All employees must report incidents immediately"
+  response_phases:
+    - Identification
+    - Containment
+    - Eradication
+    - Recovery
+    - Lessons Learned
+  executive_reporting: "Major incidents must be reported within 24 hours"
+  testing_frequency: "Annually"
+
+responsibilities:
+  employees: "Report incidents immediately"
+  incident_response_team: "Investigate, contain, and resolve incidents"
+  management: "Provide oversight and resources"
 
