@@ -12,4 +12,5 @@ Incident Response Policy
 An incident response policy provides steps to follow when a security event happens. This could be a data breach, malware attack, or unauthorized access. The policy defines roles, responsibilities, and actions to take during each stage of the response. These include detection, reporting, containment, investigation, recovery, and lessons learned. The goal is to reduce damage, restore normal operations quickly, and prevent similar incidents in the future.
 
 Audit Checklist
+
 An audit checklist is a tool that helps organizations check if they are following their security policies and ISO/IEC 27001 requirements. It usually includes questions and criteria that cover areas like access control, data protection, risk management, and incident handling. Auditors use the checklist to verify compliance and to identify gaps that need fixing. It ensures continuous improvement in the information security system.
