@@ -1,11 +1,11 @@
-ORG_NAME: "Acme Technologies Ltd."
+ORG_NAME: "Ahead Technologies Ltd."
 POLICY_OWNER: "Head of Information Security"
 INCIDENT_MANAGER: "Security Operations Manager"
 LEGAL_CONTACT: "General Counsel"
 REVIEW_FREQUENCY: "Annual"
 CURRENT_VERSION: "1.0"
 EFFECTIVE_DATE: "2025-09-02"
-CONTACT_EMAIL: "security@acme.example"
+CONTACT_EMAIL: "security@ahead.example"
 JURISDICTION: "Kenya"
 TIMEZONE: "Africa/Nairobi"
 PASSWORD_MIN_LENGTH: 14
